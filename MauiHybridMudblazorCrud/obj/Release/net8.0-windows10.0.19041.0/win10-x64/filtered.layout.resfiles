@@ -1,0 +1,12 @@
+wwwroot\_content\MudBlazor\MudBlazor.min.css
+wwwroot\_content\MudBlazor\MudBlazor.min.js
+Components\Layout\MainLayout.razor.css
+Components\Layout\NavMenu.razor.css
+wwwroot\MauiHybridMudblazorCrud.styles.css
+wwwroot\MauiHybridMudblazorCrud.bundle.scp.css
+AboutAssets.txt
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
+wwwroot\index.html
